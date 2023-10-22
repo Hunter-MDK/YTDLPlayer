@@ -19,4 +19,4 @@ cp /bin/yt-dlp /bin/ytdl
 /usr/lib64/mozilla/native-messaging-hosts/ytdlplayer.json
 /usr/lib64/mozilla/native-messaging-hosts/ytdlplayer.sh
 ```
-The actual addon will be provided on the firefox store, however addon folder in the repo is usable as well.
+The actual addon will be provided on the firefox store, however the addon folder in the repo is usable as well.
