@@ -1,6 +1,6 @@
 # YTDLPlayer
 ## What does it do?
-YTDLPlayer is a firefox extension for linux that pipes youtube videos to YTDL or MPV. It uses native messaging to send the current tab url to either program. This means you shouldnt use it on playlists, or you could if you wanted to download all files.
+YTDLPlayer is a firefox extension for linux that pipes youtube videos to YTDL or MPV. YTDL will store the files in $HOME/ytdl It uses native messaging to send the current tab url to either program. This means you shouldnt use it on playlists, or you could if you wanted to download all files.
 ## How does it work?
 When a youtube video is on your active tab you can open the addon and choose either program.
 There is no indicator for success or failure, so read the installation carefully.
