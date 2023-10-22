@@ -1,0 +1,93 @@
+html {
+	background: url(assets/bg.png);
+	color: #ffffff;
+	width: 275px;
+}
+body {
+	width: 275px;
+	height: 325px;
+	padding: 0px;
+	margin: 0px;
+	border: 2px solid #666666;
+}
+
+div {
+	width: 100%;
+}
+
+@font-face {
+	font-family: "verdana";
+	src: url(assets/verdana.ttf);
+	font-family: "verdanab";
+	src: url(assets/verdanab.ttf);
+}
+
+h1 {
+	font-family: "verdana";
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+hr {
+color: #666666;
+}
+
+.box {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 225px;
+	height: 250px;
+	background-color: #2f2f2f;
+	border: 2px solid #444444;
+}
+
+p {
+	font-family: "verdana";
+	text-align: center;
+	margin-top: 1px;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+.button {
+	margin-top: 3px;
+	margin-bottom:8px;
+	font-family: "verdanab";
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	height: 25px;
+	background-color: #2f2f2f;
+	text-align: center;
+	border: 3px solid #666666;
+	border-radius: 10px;
+	color: #ee6291;
+	padding-top: 2px;
+}
+
+.button:hover {
+	background-color: #444444;
+	color: #7DE7E9;
+	
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+
+
+
+
+
+
+

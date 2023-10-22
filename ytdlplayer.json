@@ -1,0 +1,7 @@
+{
+  "name": "ytdlplayer",
+  "description": "pipe youtube videos to ytdl or mpv",
+  "path": "/usr/lib64/mozilla/native-messaging-hosts/ytdlplayer.sh",
+  "type": "stdio",
+  "allowed_extensions": [ "ytdlplayer@mdk.wtf" ]
+}
